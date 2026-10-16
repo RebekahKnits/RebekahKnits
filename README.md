@@ -34,7 +34,7 @@ I'm particularly interested in work where I can combine:
 
 I'm especially interested in roles where technical skills and domain knowledge intersect—using data to understand problems, improve processes, and support better decisions.
 
-### 🛠️ I have trained on
+### 🛠️ I have worked with
 <img width="1353" height="819" alt="image" src="https://github.com/user-attachments/assets/c4b7fee3-3945-4126-8087-c81f7524ee54" />
 
 #### Data Analysis & Data Science
@@ -95,11 +95,50 @@ I'm especially interested in roles where technical skills and domain knowledge i
 * IT operations
 * Process automation
 * Technical documentation
-  
-### 🛠️ I have worked on
-* PowerBI
-* Python
-* Perl
-* PHP
-* Excel
+🧭 My Career Pivot
 
+My career path hasn't been a straight line into data science—and that's intentional.
+
+I started in IT and systems-focused roles, where I discovered that the part of the work I enjoyed most was understanding the data, building reports, finding patterns, and improving processes.
+
+Rather than simply changing my job title, I decided to build the technical foundation to support that interest.
+
+Since 2024, I've progressively developed skills in:
+
+*IT & Systems → Business Intelligence → Data Analytics → Data Science → Data Engineering*
+
+This portfolio represents that progression.
+
+### 📚 Current Focus
+
+I'm continuing to strengthen my skills through projects involving:
+* Advanced Python
+* SQL
+* Data analysis
+* Data visualization
+* Machine learning
+* Data engineering
+* Automation
+* Reproducible analytical workflows
+
+My goal isn't simply to collect technologies.
+
+It's to become better at answering the more important question:
+
+What can the data tell us, and how can we use that information to make something better?
+
+### 📫 Let's Connect
+
+I'm interested in connecting with people working in:
+
+* Data Science
+* Data Analytics
+* Business Intelligence
+* Data Engineering
+* Operations Analytics
+* Government / Public Sector Data
+* Technical Analytics
+
+Thanks for visiting my portfolio!
+
+If you're interested in data, automation, or turning messy operational problems into useful information, I'd love to connect.
