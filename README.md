@@ -1,4 +1,4 @@
-## Hi, I am Rebekah
+# Hi, I am Rebekah
 😄 Pronouns: She/Her
 <!--
 **RebekahKnits/RebekahKnits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Data Analyst | Aspiring Data Scientist | IT & Data Professional
 I'm an experienced IT professional transitioning into data science and data analytics, with a background in technical analysis, systems, asset management, process improvement, and Department of Defense environments.
 
 Over the past two years, I've intentionally expanded my technical focus from managing systems to working with the data those systems produce. I've developed skills across the data lifecycle—from collecting and cleaning data, to querying databases, analyzing patterns, building visualizations, and developing data pipelines.
-### 🔎 I'm Interested In
+## 🔎 I'm Interested In
 I'm particularly interested in work where I can combine:
 
 * Data analysis and exploratory data analysis
@@ -35,7 +35,7 @@ I'm particularly interested in work where I can combine:
 I'm especially interested in roles where technical skills and domain knowledge intersect—using data to understand problems, improve processes, and support better decisions.
 
 ### 🛠️ I have worked with
-<img width="1353" height="819" alt="image" src="https://github.com/user-attachments/assets/c4b7fee3-3945-4126-8087-c81f7524ee54" />
+<img width="811" height="491" alt="image" src="https://github.com/user-attachments/assets/c4b7fee3-3945-4126-8087-c81f7524ee54" />
 
 #### Data Analysis & Data Science
 * Python
@@ -95,7 +95,7 @@ I'm especially interested in roles where technical skills and domain knowledge i
 * IT operations
 * Process automation
 * Technical documentation
-🧭 My Career Pivot
+## 🧭 My Career Pivot
 
 My career path hasn't been a straight line into data science—and that's intentional.
 
