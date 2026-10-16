@@ -36,6 +36,7 @@ I'm particularly interested in work where I can combine:
 I'm especially interested in roles where technical skills and domain knowledge intersect—using data to understand problems, improve processes, and support better decisions.
 
 ### 🛠️ Technical Skills
+<img width="1353" height="819" alt="image" src="https://github.com/user-attachments/assets/c4b7fee3-3945-4126-8087-c81f7524ee54" />
 
 #### Data Analysis & Data Science
 
